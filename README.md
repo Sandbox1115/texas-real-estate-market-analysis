@@ -72,7 +72,7 @@ renv should now reinstall all the required packages listed in the lock file to t
 
 This project was developed by Sandbox1115.
 
-If you have any question, advice, or want to share your own findings and solution to these project raw dataset please get in touch, i'd be glad to evaluate your work and grow up professionally toghether.
+If you have any question, advice, or want to share your own findings and solution to this project raw dataset please get in touch, i'd be glad to evaluate your work and grow up professionally toghether.
 
 ### License
 
